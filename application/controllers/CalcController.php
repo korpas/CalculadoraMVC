@@ -8,9 +8,9 @@
 
 namespace controllers;
 
-use models\CalculatorModel;
+use models\CalcModel;
 
-require 'application/models/CalculatorModel.php';
+require 'application/models/CalcModel.php';
 
 
 
